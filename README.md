@@ -7,3 +7,5 @@ To get iServices working: https://dortania.github.io/OpenCore-Post-Install/unive
 !!IMPORTANT!!
 This build does not contain a completed config.plist
 It contains a template config.plist that you should create on your own
+
+All OpenCore credit goes to https://github.com/acidanthera
